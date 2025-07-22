@@ -9,7 +9,7 @@ Flask-Babel==2.0.0
 Flask-Login>=0.3.2,<=0.6.1
 git+https://github.com/maxcountryman/flask-themes@9eac2dc#egg=Flask-Themes
 future==0.18.2
-idna==3.3
+idna==3.7
 itsdangerous==1.1.0
 MarkupSafe<=2.0.1
 packaging==21.3
